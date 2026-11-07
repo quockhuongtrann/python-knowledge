@@ -13,7 +13,7 @@ Tài liệu học tập và thực hành dành cho Python/Django Engineer, tập
 7. [Containers & Kubernetes Fundamentals](07_containers_and_kubernetes_fundamentals/containers_and_kubernetes_fundamentals.md)
 8. [Security Engineering](08_security_engineering/security_engineering.md)
 9. [Performance, Observability & Reliability](09_performance_observability_and_reliability/performance_observability_and_reliability.md)
-10. [Integrated Senior Project](10_integrated_senior_project/integrated_senior_project.md)
+10. [Integrated Project](10_integrated_project/integrated_project.md)
 
 ## Cách sử dụng
 

@@ -1,4 +1,4 @@
-# Integrated Senior Project: Resilient Order & Invoice Subsystem
+# Integrated Project: Resilient Order & Invoice Subsystem
 
 ## 1. Executive summary
 
